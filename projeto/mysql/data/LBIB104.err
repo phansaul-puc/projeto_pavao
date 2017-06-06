@@ -1,0 +1,23 @@
+2016-02-26 10:52:06 4624 [Note] Plugin 'FEDERATED' is disabled.
+2016-02-26 10:52:06 4624 [Note] InnoDB: The InnoDB memory heap is disabled
+2016-02-26 10:52:06 4624 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2016-02-26 10:52:06 4624 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2016-02-26 10:52:06 4624 [Note] InnoDB: Not using CPU crc32 instructions
+2016-02-26 10:52:06 4624 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2016-02-26 10:52:06 4624 [Note] InnoDB: Completed initialization of buffer pool
+2016-02-26 10:52:06 4624 [Note] InnoDB: Setting log file C:\Temp\zex\usbwebserver\mysql\data\ib_logfile101 size to 5 MB
+2016-02-26 10:52:06 4624 [Note] InnoDB: Setting log file C:\Temp\zex\usbwebserver\mysql\data\ib_logfile1 size to 5 MB
+2016-02-26 10:52:07 4624 [Note] InnoDB: Renaming log file C:\Temp\zex\usbwebserver\mysql\data\ib_logfile101 to C:\Temp\zex\usbwebserver\mysql\data\ib_logfile0
+2016-02-26 10:52:07 4624 [Warning] InnoDB: New log files created, LSN=1626134
+2016-02-26 10:52:07 4624 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-02-26 10:52:07 4624 [Note] InnoDB: 128 rollback segment(s) are active.
+2016-02-26 10:52:07 4624 [Note] InnoDB: Waiting for purge to start
+2016-02-26 10:52:07 4624 [Note] InnoDB: 5.6.13 started; log sequence number 1626636
+2016-02-26 10:52:07 4624 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 1fdc39ce-dc90-11e5-abc7-a41f72fdb100.
+2016-02-26 10:52:07 4624 [Note] Server hostname (bind-address): '*'; port: 3307
+2016-02-26 10:52:07 4624 [Note] IPv6 is available.
+2016-02-26 10:52:07 4624 [Note]   - '::' resolves to '::';
+2016-02-26 10:52:07 4624 [Note] Server socket created on IP: '::'.
+2016-02-26 10:52:07 4624 [Note] Event Scheduler: Loaded 0 events
+2016-02-26 10:52:07 4624 [Note] C:\Temp\zex\usbwebserver/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.13'  socket: ''  port: 3307  MySQL Community Server (GPL)
