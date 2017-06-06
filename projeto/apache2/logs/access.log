@@ -1,12 +1,2 @@
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET / HTTP/1.1" 200 7595
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 121200
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 29063
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /css/grayscale.min.css HTTP/1.1" 200 5234
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /js/grayscale.min.js HTTP/1.1" 200 2736
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 37045
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /vendor/jquery/jquery.js HTTP/1.1" 200 293430
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /img/intro-bg.jpg HTTP/1.1" 200 88321
-::1 - - [06/Jun/2017:09:54:24 -0300] "GET /img/downloads-bg.jpg HTTP/1.1" 200 110981
-::1 - - [06/Jun/2017:09:54:26 -0300] "GET /favicon.ico HTTP/1.1" 404 209
-::1 - - [06/Jun/2017:09:54:26 -0300] "GET /img/map-marker.png HTTP/1.1" 200 1072
+::1 - - [06/Jun/2017:11:03:24 -0300] "GET / HTTP/1.1" 200 7638
+::1 - - [06/Jun/2017:11:03:27 -0300] "GET / HTTP/1.1" 200 7638
