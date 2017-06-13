@@ -3,23 +3,12 @@
 <?php include 'head.php' ?>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <!-- Navigation -->
-    <style type="text/css">
-        
-        .navbar.navbar-custom.navbar-fixed-top.top-nav-collapse{
-    background: #a93333 !important;            
-        }
-    </style>
-
     <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i> <span class="light">Start</span> Bootstrap
-                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -30,13 +19,26 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                       <div class="dropdown">
+                          <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown" style="border: none; color:white; background-color: transparent !important;margin-top: 8%;">
+                           Alemanha
+                          </button>
+                          <ul class="dropdown-menu" style="color:black !important;">
+                            <li><a href="#"></a></li>
+                            <li><a href="#cultura">Cultura</a></li>
+                            <li class="dropdown"><a href="#ff">Fauna e Flora</a></li>
+                            <li><a href="#guerra">Guerra</a></li>
+                            <li><a href="#historia">História</a></li>
+                            <li class="dropdown"><a href="#politica">Política</a></li>
+                            <li><a href="#pt">Pontos Turísticos</a></li>
+                          </ul>
+                        </div>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#download">Download</a>
+                        <a class="page-scroll" href="quiz.php">Quiz</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="rank.php">Rank</a>
                     </li>
                 </ul>
             </div>

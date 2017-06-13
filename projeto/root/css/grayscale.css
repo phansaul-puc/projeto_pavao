@@ -83,7 +83,7 @@ a:focus {
   transition: background 0.3s ease-in-out;
 }
 .navbar-custom .nav li a:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: black;
   outline: none;
   background-color: transparent;
 }
@@ -113,7 +113,7 @@ a:focus {
   }
   .navbar-custom.top-nav-collapse {
     padding: 0;
-    background: #a93333;
+    background: transparent;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
 }

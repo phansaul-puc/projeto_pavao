@@ -13,3 +13,8 @@
 
     <!-- Theme JavaScript -->
     <script src="js/grayscale.min.js"></script>
+
+
+    <script src="js/bootstrap-dropdownhover.js"></script>
+
+    <script src="js/bootstrap-dropdownhover.min.js"></script>
